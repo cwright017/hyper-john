@@ -1,6 +1,6 @@
 {
   "name": "hyper-john",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bring John Cena to Hyper, with a 10% change to get hit when opening tabs.",
   "main": "index.js",
   "repository": "CWright017/hyper-john",

@@ -9,7 +9,7 @@ module.exports.decorateTerm = (Term, {React, notify}) => {
     }
 
     _onTerminal (term) {
-      if (Math.floor(Math.random() * 10) === 1) {
+      if (Math.floor(Math.random() * 9) === 1) {
         this._audio.play();
       }
 
