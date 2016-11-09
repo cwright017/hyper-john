@@ -1,0 +1,20 @@
+{
+  "name": "hyper-john",
+  "version": "1.0.1",
+  "description": "Bring John Cena to Hyper, with a 10% change to get hit when opening tabs.",
+  "main": "index.js",
+  "repository": "CWright017/hyper-john",
+  "author": "CWright <c.wright017@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyper-plugin",
+    "hyperterm-plugin",
+    "plugin",
+    "hyper-john",
+    "John cena"
+  ]
+}
